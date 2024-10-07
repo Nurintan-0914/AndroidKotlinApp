@@ -32,7 +32,7 @@
         android:text="@string/subtract_number"
         android:onClick="subtractNumber" />
 
-    <!-- Tombol Reset Number -->
+
     <Button
         android:id="@+id/btnResetNumber"
         android:layout_width="wrap_content"
@@ -42,3 +42,4 @@
         android:onClick="resetNumber" />
 
 </LinearLayout>
+
